@@ -1,2 +1,2 @@
-# CODIN-WITH-VIPUL
+# CODING-WITH-VIPUL
 this is my first Git Repository.
